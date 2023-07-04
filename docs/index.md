@@ -37,14 +37,6 @@
   <br>
   <li>The decode operation is done on the file selected, not the image displayed on the UI.</li>
  </ul>
- <h2 style="margin-top: 50px;"><b>Links:</b></h2>
- <p style="margin-top: 0px;">
- <br>
- <li><a href="https://wiki.bi0s.in/forensics/lsb/">Read the Docs</a></li>
- <br>
- <li><a href="https://wiki.bi0s.in/forensics/lsb/">PyPi Production</a></li>
- <br>
- <li><a href="https://wiki.bi0s.in/forensics/lsb/">PyPi Test</a></li>
  <h2 style="margin-top: 30px;"><b>Installation:</b></h2>
  <code style="margin-top: 5px;">
  <p><code>pip install adeso</code></p>
