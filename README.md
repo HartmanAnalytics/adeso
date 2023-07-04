@@ -47,5 +47,5 @@
  <li><a href="https://wiki.bi0s.in/forensics/lsb/">PyPi Test</a></li>
  <h2 style="margin-top: 30px;"><b>Installation:</b></h2>
  <code style="margin-top: 5px;">
- <p><code>pip install adeso</code></p>
+ <code>pip install adeso</code>
 </div>
