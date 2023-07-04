@@ -39,7 +39,6 @@
  </ul>
  <h2 style="margin-top: 50px;"><b>Links:</b></h2>
  <p style="margin-top: 0px;">
- <br>
  <li><a href="https://wiki.bi0s.in/forensics/lsb/">Read the Docs</a></li>
  <br>
  <li><a href="https://wiki.bi0s.in/forensics/lsb/">PyPi Production</a></li>
