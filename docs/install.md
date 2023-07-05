@@ -14,4 +14,10 @@
  <br>
  <code>$ open http://127.0.0.1:5000</code>
  <br>
+
+ <h2 style="margin-top: 50px;"><b>PyPi Links:</b></h2>
+ <p style="margin-top: 0px;">
+ <li><a href="https://pypi.org/project/adeso/">PyPi Production</a></li>
+ <br>
+ <li><a href="https://test.pypi.org/project/adeso/">PyPi Test</a></li>
 </div>
