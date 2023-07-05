@@ -5,6 +5,13 @@
      <b>D</b>ecryption, <b>E</b>ncryption &
      <b>S</b>teganographic <b>O</b>perations
  </h2>
- <h2 style="margin-top: 50px;"><b>Installation:</b></h2>
- <code>pip install adeso</code>
+ <h2 style="margin-top: 30px;"><b>Basic Installation & Use:</b></h2>
+ <br>
+ <p>shell</p>
+ <code>$ pip install adeso</code>
+ <br>
+ <code>$ python -m adeso.adeso</code>
+ <br>
+ <code>$ open http://127.0.0.1:5000</code>
+ <br>
 </div>

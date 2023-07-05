@@ -39,11 +39,11 @@
  </ul>
  <h2 style="margin-top: 50px;"><b>Links:</b></h2>
  <p style="margin-top: 0px;">
- <li><a href="https://wiki.bi0s.in/forensics/lsb/">Read the Docs</a></li>
+ <li><a href="https://HartmanAnalytics.github.io/adeso/">Documentation</a></li>
  <br>
- <li><a href="https://wiki.bi0s.in/forensics/lsb/">PyPi Production</a></li>
+ <li><a href="https://pypi.org/project/adeso/">PyPi Production</a></li>
  <br>
- <li><a href="https://wiki.bi0s.in/forensics/lsb/">PyPi Test</a></li>
+ <li><a href="https://test.pypi.org/project/adeso/">PyPi Test</a></li>
  <h2 style="margin-top: 30px;"><b>Installation:</b></h2>
  <code>pip install adeso</code>
 </div>
